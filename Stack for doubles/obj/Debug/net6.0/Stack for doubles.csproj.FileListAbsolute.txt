@@ -1,0 +1,15 @@
+C:\Users\Meet  Kerasiya\source\repos\Generics\Stack for doubles\bin\Debug\net6.0\Stack for doubles.exe
+C:\Users\Meet  Kerasiya\source\repos\Generics\Stack for doubles\bin\Debug\net6.0\Stack for doubles.deps.json
+C:\Users\Meet  Kerasiya\source\repos\Generics\Stack for doubles\bin\Debug\net6.0\Stack for doubles.runtimeconfig.json
+C:\Users\Meet  Kerasiya\source\repos\Generics\Stack for doubles\bin\Debug\net6.0\Stack for doubles.dll
+C:\Users\Meet  Kerasiya\source\repos\Generics\Stack for doubles\bin\Debug\net6.0\Stack for doubles.pdb
+C:\Users\Meet  Kerasiya\source\repos\Generics\Stack for doubles\obj\Debug\net6.0\Stack for doubles.csproj.AssemblyReference.cache
+C:\Users\Meet  Kerasiya\source\repos\Generics\Stack for doubles\obj\Debug\net6.0\Stack for doubles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Meet  Kerasiya\source\repos\Generics\Stack for doubles\obj\Debug\net6.0\Stack for doubles.AssemblyInfoInputs.cache
+C:\Users\Meet  Kerasiya\source\repos\Generics\Stack for doubles\obj\Debug\net6.0\Stack for doubles.AssemblyInfo.cs
+C:\Users\Meet  Kerasiya\source\repos\Generics\Stack for doubles\obj\Debug\net6.0\Stack for doubles.csproj.CoreCompileInputs.cache
+C:\Users\Meet  Kerasiya\source\repos\Generics\Stack for doubles\obj\Debug\net6.0\Stack for doubles.dll
+C:\Users\Meet  Kerasiya\source\repos\Generics\Stack for doubles\obj\Debug\net6.0\refint\Stack for doubles.dll
+C:\Users\Meet  Kerasiya\source\repos\Generics\Stack for doubles\obj\Debug\net6.0\Stack for doubles.pdb
+C:\Users\Meet  Kerasiya\source\repos\Generics\Stack for doubles\obj\Debug\net6.0\Stack for doubles.genruntimeconfig.cache
+C:\Users\Meet  Kerasiya\source\repos\Generics\Stack for doubles\obj\Debug\net6.0\ref\Stack for doubles.dll
